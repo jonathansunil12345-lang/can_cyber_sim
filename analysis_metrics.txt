@@ -1,0 +1,8 @@
+peak_msgs_per_sec: 40
+total_msgs: 200
+counts_by_type: {'DoS': 120, 'Authentic': 32, 'Spoofed': 24, 'Replay': 24}
+first_dos_time: 5.019269943237305
+first_spoofed_time: 10.039223194122314
+first_replay_time: 15.070087671279907
+first_dos_mitigation_time: None
+dos_detection_time_proxy: 5
